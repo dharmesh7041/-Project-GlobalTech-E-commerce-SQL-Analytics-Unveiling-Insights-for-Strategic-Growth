@@ -9,3 +9,7 @@ Objective:
 - Utilize SQL queries to address basic to advanced business questions and generate actionable insights.
 - Showcase the efficiency of ChatGPT in generating realistic sample data for analysis.
 - Visualize the database schema using an Entity-Relationship (ER) diagrams to illustrate key relationships.
+
+   Dharmesh Thakor
+  thakordharmesh344@gmail.com
+  LinkedIn :- https://www.linkedin.com/in/dharmesh-thakor-
